@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/0LjVwYr.png" width="0" height="0" alt="">
 
-# ⚜️ S E E K   P A L E B L O O D   T O   T R A N S C E N D ⚜️
+#  S E E K   P A L E B L O O D   T O   T R A N S C E N D 
 
 ### *`o meu readme no github`* 💀
 
@@ -18,20 +18,19 @@
 
 </div>
 
-## 🌑 Sobre Mim
+##  Sobre Mim
 
-> *"Em Yharnam, todos nascem da doença... e todo programador, da curiosidade."*
+> *"Em Yharnam, todos nascem da doença... "*
 
-Sou um **Backend Developer in Training**, explorando as ruas nebulosas do desenvolvimento de software como um caçador busca a cura para a peste. Cada bug é uma fera a ser abatida, cada deploy bem-sucedido é uma vitória contra a Lua Paleamarga.
+Sou um **Backend Developer in Training**, estou buscando aprender sobre a progamação
 
-- 🩸 Atualmente aprofundando conhecimentos em **Python**, **Django** e **Flask**
-- ⚰️ Focado em construir APIs sólidas e arquiteturas que não cedem sob pressão
-- 🔮 Sempre em busca do próximo insight — *"a visão é um presente... e uma maldição"*
+-  Atualmente aprofundando conhecimentos em **Python**, **Django** e **Flask**
+-  Sempre em busca do próximo insight — *"a visão é um presente... e uma maldição"*
 - 🕯️ Disponível para colaborações, projetos e trocas de conhecimento
 
 ---
 
-## ⚔️ Arsenal do Caçador
+##  Arsenal do Caçador
 
 <div align="center">
 
@@ -48,7 +47,7 @@ Sou um **Backend Developer in Training**, explorando as ruas nebulosas do desenv
 
 ---
 
-## 📜 Crônicas de Yharnam (Estatísticas)
+##  Crônicas de Yharnam (Estatísticas)
 
 <div align="center">
 
