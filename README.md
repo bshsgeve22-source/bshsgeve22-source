@@ -1,4 +1,3 @@
-![bshsgeve22-source's Stats](https://github-readme-stats.vercel.app/api?username=bshsgeve22-source&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <div align="center">
 
 <img src="https://i.imgur.com/0LjVwYr.png" width="0" height="0" alt="">
@@ -13,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=C9B27C)](#)
 [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-0A0A0A?style=for-the-badge&logo=triangle&logoColor=C9B27C)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=najuiamnc&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=bshsgeve22-source&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS)
 
 ---
 
@@ -53,12 +52,12 @@ Sou um **Backend Developer in Training**, explorando as ruas nebulosas do desenv
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=najuiamnc&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0A0A&title_color=C9B27C&icon_color=8b0000&text_color=cccccc" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuiamnc&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0A0A0A&title_color=C9B27C&text_color=cccccc" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bshsgeve22-source&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0A0A0A&title_color=C9B27C&icon_color=8b0000&text_color=cccccc" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bshsgeve22-source&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0A0A0A&title_color=C9B27C&text_color=cccccc" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=najuiamnc&theme=midnight-purple&hide_border=true&background=0A0A0A&ring=8b0000&fire=C9B27C&currStreakLabel=C9B27C" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bshsgeve22-source&theme=midnight-purple&hide_border=true&background=0A0A0A&ring=8b0000&fire=C9B27C&currStreakLabel=C9B27C" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=najuiamnc&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=bshsgeve22-source&theme=darkhub&no-frame=true&row=1&column=6" />
 
 </div>
 
