@@ -69,7 +69,7 @@ Sou um **Backend Developer in Training**, explorando as ruas nebulosas do desenv
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=C9B27C)](#)
 [![Gmail](https://img.shields.io/badge/-Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=C9B27C)](bshsgeve22@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=C9B27C)](#)
+[![Instagram](https://img.shields.io/badge/-Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=C9B27C)](https://www.instagram.com/marcelo.aaariozif?igsh=MTk5Z3lydzNibjBseg%3D%#D&utm_source=qr)
 
 </div>
 
